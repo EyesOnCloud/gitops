@@ -1,0 +1,13 @@
+= ArgoCD and GitOps Tutorial for OpenShift/Kubernetes
+
+== Documentation
+
+This workshop is based on link:https://antora.org/[Antora] and link:https://github.com/redhat-scholars/courseware-template[Red Hat scholars template] to build HTML based tutorials.
+
+For the full reference tutorial, follow the step by step link for your cluster available below: 
+
+https://redhat-scholars.github.io/argocd-tutorial/
+
+== Contributing
+
+Please refer to the link:CONTRIBUTING.adoc#contributing-guide[how to contribute] on how you can contribute to the tutorial.
